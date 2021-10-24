@@ -1,0 +1,32 @@
+.navbar {
+  height: 50px;
+  background-color: rgb(241, 241, 241);
+  justify-content: flex-start;
+  padding-top: 0rem;
+  display: flex;
+}
+
+.nav-menu {
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  grid-gap: 30px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+
+.nav-links {
+  color: rgb(31, 31, 31);
+}
+
+.nav-links-active {
+  color: #4a7ac4;
+}
+
+.nav-links:hover {
+  text-decoration: none;
+  color: #4a7ac4;
+}

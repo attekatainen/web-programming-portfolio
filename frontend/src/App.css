@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+.content {
+  display: grid;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 50px;
+  gap: 50px;
+}
+
+.content-nogap {
+  display: grid;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 50px;
+}
+
+.kuva {
+  display: flex;
+  max-width: 600px;
+  height: auto;
+}
+
+.kuva2 {
+  display: flex;
+  max-width: 600px;
+  height: auto;
+}
+
+.tableData {
+  text-align: center;
+}
+
+.Urheilijat {
+  width: 100%;
+  max-width: 1920px;
+  padding: 15px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.svg-icons {
+  width: 2.5vmin;
+  height: 2.5vmin;
+  cursor: pointer;
+}
+
+.error-div {
+  position: absolute;
+  top: calc(50px + 2%);
+  right: 1%;
+}
+
+.error-alert{
+  width: 100%;
+  height: 100%;
+  margin: 0 !important;
+}
