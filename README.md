@@ -6,7 +6,7 @@ In the web-programming-portfolio directory, run:
 
 ### `npm install`
 
-Install all depencies that were used on this project.
+Install all depencies that were used on backend on this project.
 
 ### `npm start`
 
@@ -16,7 +16,7 @@ Starts backend-server.
 
 ### `npm install`
 
-Install all depencies that were used on this project.
+Install all depencies that were used on frontend on this project.
 
 ### `npm start`
 
