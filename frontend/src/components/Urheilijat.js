@@ -385,8 +385,7 @@ class Urheilijat extends Component {
           muokkaukseen ja poistamiseen. Frontendillä käytin react-bootstrappia muun muassa nappien ulkoasuun ja axiosia
           backend kutsuja varten.
           <br></br>- Tehtävä opetti hyvin server-client vuorovaikutusta ja mielestäni onnistuin tehtävässä ihan hyvin. Jos jotain
-          tehtävässä voisi tehdä vielä paremmin, niin validaation lomakkeisiin, että esimerkiksi painoksi ja syntymävuodeksi kelpaa
-          vain numerot ja syntymävuoden maksimi merkkien määrä on neljä. Myös Urheilijat-komponentista tuli aika pitkä, niin selkeyden vuoksi
+          tehtävässä voisi tehdä vielä paremmin, niin urheilijat-komponentista tuli aika pitkä, niin selkeyden vuoksi
           olisi voinut tehdä omat komponentit urheilijoiden lisäykselle, muokkaamiselle ja poistamiselle.
       </p>
     </div>
